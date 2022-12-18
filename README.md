@@ -9,6 +9,7 @@ Tools used
 2. Tableau (Visualization tool)
 
 Problem statement
+
 An energy company is looking to solve the electric power problem and would want to know the power
 demand and possible ways to approach the problem. The following research questions will aid in finding
 insight that might lead to answering the problem statement
@@ -18,6 +19,7 @@ insight that might lead to answering the problem statement
 4. What source of power project yields the most energy?
 
 Data Wrangling process
+
 I. Inline with best practices I had to review the data I got from Kaggle.com. I checked for null
 values with the filter function on Google sheets.
 II. I proceeded to checking for duplicates in the dataset using the year as point of reference. I
@@ -31,6 +33,7 @@ power generation.
 
 
 Approach
+
 The approach to this project will first be understanding the performance of power consumption over
 time, the various mode of production and the capacity of power they produce. This thought will be
 represented in a visualized diagram. Next, this report will show a comparison between the supply and
