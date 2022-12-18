@@ -1,11 +1,8 @@
 # Global-Energy-Consumption-and-Renewable-Energy
 
-Title of project
-Global Energy Consumption project – How prepared are we to welcome green energy
+Title of project: Global Energy Consumption project – How prepared are we to welcome green energy
 
-Source of data
-https://www.kaggle.com/datasets/jamesvandenberg/renewable-power-
-generation?select=top20CountriesPowerGeneration.csv
+Source of data: https://www.kaggle.com/datasets/jamesvandenberg/renewable-power-generation?select=top20CountriesPowerGeneration.csv
 
 Tools used
 1. Google Sheets
